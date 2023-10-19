@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FELIPE-NEEMIAS_152799-170550_TP1_P1_ADALAINE_RNA_2023/1.0.0": {
+        "runtime": {
+          "FELIPE-NEEMIAS_152799-170550_TP1_P1_ADALAINE_RNA_2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FELIPE-NEEMIAS_152799-170550_TP1_P1_ADALAINE_RNA_2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
